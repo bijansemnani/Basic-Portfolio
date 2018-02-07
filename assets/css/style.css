@@ -1,6 +1,6 @@
 
 header{
-  height: 76px;
+  height: 67px;
   background-color: #ffffff;
   border-bottom: solid 3px grey;
 
@@ -16,7 +16,7 @@ span.title{
   background: #4db6ac;
   font-size: 25px;
   color: white;
-  padding: 25px 25px 30px 25px;
+  padding: 25px;
   margin-left: 100px;
   margin-top: -8px;
 }
