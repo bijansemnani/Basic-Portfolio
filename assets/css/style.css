@@ -1,6 +1,7 @@
 body{
   background-color: #ffca28;
 }
+
 header{
   font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
   height: 67px;
@@ -8,12 +9,17 @@ header{
   border-bottom: solid 3px grey;
 
 }
+
 a.links{
   padding-right: 5px;
   border-right: solid 1px black;
   border-color: grey;
 }
 
+img.img{
+  float: left;
+  padding-right: 10px;
+}
 span.title{
   font-family: 'Georgia', Times, serif;
   float: left;
