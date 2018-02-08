@@ -10,6 +10,18 @@ header{
 
 }
 
+input{
+  width: 100%
+}
+
+input.submit{
+  width: 25%;
+  height: 15%;
+  font-size: 15px;
+  color: #ffffff;
+  background-color: #4db6ac;
+}
+
 a.links{
   padding-right: 5px;
   border-right: solid 1px black;
@@ -20,6 +32,7 @@ img.img{
   float: left;
   padding-right: 10px;
 }
+
 span.title{
   font-family: 'Georgia', Times, serif;
   float: left;
@@ -50,7 +63,7 @@ div.about{
   border: solid 1px #dddddd;
   margin-top: 30px;
   margin-left: 100px;
-  width: 500px;
+  width: 650px;
   height: 300px;
   padding: 25px;
 }
@@ -80,7 +93,7 @@ div.connect{
 
 footer{
   text-align: center;
-  position: fixed;
+  position: absolute;
   bottom: 0;
   clear: both;
   height: 100px;
