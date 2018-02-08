@@ -1,5 +1,5 @@
 body{
-  background-color: #ffca28;
+  background-image: url('spiration light/spiration-light.png');
 }
 
 header{
@@ -121,53 +121,68 @@ div.portfolio{
   background-color: white;
   float: left;
   width: 600px;
-  height: 800px;
+  height: 1000px;
   margin-top: 30px;
   margin-left: 100px;
   position: absolute;
 
 }
-
+.box{
+  background-color: black;
+  margin: 50px;
+}
 #box1{
   background-color: black;
+  color: white;
   position: relative;
-  height: 200px;
-  width: 275px;
-  top: 5%;
+  float: left;
+  padding: 50px;
+  height: 100px;
+  width: 100px;
+  top: 0%;
+  right: 0%;
 }
 
 #box2{
+  float: right;
   background-color: black;
   position: relative;
-  height: 200px;
-  width: 275px;
+  padding: 50px;
+  height: 100px;
+  width: 100px;
   top: 5%;
-  right: -5%;
+  right: 0%;
 }
 
 #box3{
   background-color: black;
   position: relative;
-  margin-top: 10px;
-  height: 200px;
-  width: 275px;
-  top: 10%;
+  float: left;
+  padding: 50px;
+  height: 100px;
+  width: 100px;
+  top: 35%;
+  right: 33%;
 }
 
 #box4{
   background-color: black;
+  float: right;
   position: relative;
-  height: 200px;
-  width: 275px;
-  top: 5%;
-  right: -5%;
+  padding: 50px;
+  height: 100px;
+  width: 100px;
+  top: 10%;
+  right: 0%;
 }
 
 #box5{
   background-color: black;
   position: relative;
-  margin-top: 10px;
-  height: 200px;
-  width: 275px;
-  top: 5%;
+  float: left;
+  padding: 50px;
+  height: 100px;
+  width: 100px;
+  bottom: -40%;
+  right: 0%;
 }
