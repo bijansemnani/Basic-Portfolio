@@ -7,7 +7,6 @@ header{
   height: 67px;
   background-color: #ffffff;
   border-bottom: solid 3px grey;
-
 }
 
 input{
@@ -87,6 +86,7 @@ div.connect{
   margin-right: 100px;
   padding: 0 10px 30px 10px;
 }
+
 #connectHeader{
   padding: 15px;
 }
@@ -120,69 +120,19 @@ div.portfolio{
   padding: 50px;
   background-color: white;
   float: left;
-  width: 600px;
-  height: 1000px;
+  width: 450px;
+  height: 600px;
   margin-top: 30px;
   margin-left: 100px;
-  position: absolute;
+}
 
-}
-.box{
-  background-color: black;
-  margin: 50px;
-}
-#box1{
+div.box{
+  text-align: center;
+  margin: 25px;
   background-color: black;
   color: white;
-  position: relative;
-  float: left;
-  padding: 50px;
-  height: 100px;
-  width: 100px;
-  top: 0%;
-  right: 0%;
-}
+  display: inline-block;
+  height: 150px;
+  width: 150px;
 
-#box2{
-  float: right;
-  background-color: black;
-  position: relative;
-  padding: 50px;
-  height: 100px;
-  width: 100px;
-  top: 5%;
-  right: 0%;
-}
-
-#box3{
-  background-color: black;
-  position: relative;
-  float: left;
-  padding: 50px;
-  height: 100px;
-  width: 100px;
-  top: 35%;
-  right: 33%;
-}
-
-#box4{
-  background-color: black;
-  float: right;
-  position: relative;
-  padding: 50px;
-  height: 100px;
-  width: 100px;
-  top: 10%;
-  right: 0%;
-}
-
-#box5{
-  background-color: black;
-  position: relative;
-  float: left;
-  padding: 50px;
-  height: 100px;
-  width: 100px;
-  bottom: -40%;
-  right: 0%;
 }
